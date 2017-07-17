@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="">
         <meta name="author" content="">
-        <link rel="icon" href="/static/home/favicon.ico">
+        <link rel="icon" href="/static/favicon.ico">
         <title>{{ title }}</title>
         {% require "home:static/js/jquery-1.10.2.js" %}
     {% endhead %}
