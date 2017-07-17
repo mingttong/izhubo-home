@@ -17,7 +17,7 @@ fis.media('debug').match('*', {
     useHash: false,
     deploy: fis.plugin('http-push', {
         // receiver: 'http://local.izhubo.org/yog/upload',
-        receiver: 'http://127.0.0.1:8085/yog/upload',
+        receiver: 'http://local.izhubo.org:8085/yog/upload',
         to: '/'
     })
 });

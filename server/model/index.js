@@ -1,5 +1,5 @@
 module.exports.getData = function(){
 	return {
-		title : 'FIS',
+		title : '首页',
 	};
 };

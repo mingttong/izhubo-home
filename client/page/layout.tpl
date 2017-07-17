@@ -1,14 +1,14 @@
 <!doctype html>
-{% html lang="en" framework="izhubo-home:static/js/mod.js" %}
+{% html lang="en" framework="home:static/js/mod.js" %}
     {% head %}
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="">
         <meta name="author" content="">
-        <link rel="icon" href="/static/favicon.ico">
+        <link rel="icon" href="/static/home/favicon.ico">
         <title>{{ title }}</title>
-        {% require "izhubo-home:static/js/jquery-1.10.2.js" %}
+        {% require "home:static/js/jquery-1.10.2.js" %}
     {% endhead %}
 
     {% body %}

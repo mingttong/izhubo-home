@@ -10,6 +10,8 @@ module.exports = function(router){
     // or write action directly
     // router.get('/some/:user', function(req, res){});
 
+    console.log(router.route);
+
     // a restful api example
     router.route('/book')
         // PUT /izhubo-home/book
