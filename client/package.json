@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
-    "jquery": "^3.1.0"
+    "jquery": "^3.1.0",
+    "vue": "^2.4.1",
+    "vue-router": "^2.7.0"
   },
   "devDependencies": {},
   "scripts": {
