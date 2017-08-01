@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
+    "fis3-parser-vue-component": "^5.4.0",
     "moment": "^2.18.1",
     "pinyin": "^2.8.3",
     "request": "~2.81.0",
