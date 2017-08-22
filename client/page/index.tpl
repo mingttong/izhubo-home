@@ -14,8 +14,10 @@
         <meta name="apple-mobile-web-app-status-bar-style" content="white" />
         <meta name="wap-font-scale" content="no" />
         <link rel="icon" href="/static/favicon.ico">
+        <li
         {% require "jquery" %}
         {% require "home:static/css/layout.less" %}
+        {% require "home:static/ui/"
         {% block afterHead %}
         {% endblock %}
     {% endhead %}
